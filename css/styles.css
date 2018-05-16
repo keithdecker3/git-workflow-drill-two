@@ -19,5 +19,13 @@ nav {
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size:
+  font-size: 4em;
+}
+
+ul {
+  list-style-type: armenian;
+  font-size: orange;
+  line-height: 2em;
+  text-transform: uppercase;
+  padding: 3em;
 }
